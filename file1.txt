@@ -1,3 +1,1 @@
-Feature 3 changes 
-
-Adding Fix 1 
+Rebase Check Master 
