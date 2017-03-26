@@ -1,1 +1,3 @@
 Feature 3 changes 
+
+Adding Fix 1 
